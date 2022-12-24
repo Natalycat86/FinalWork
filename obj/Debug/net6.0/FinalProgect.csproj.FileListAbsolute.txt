@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\bin\Debug\net6.0\FinalProgect.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\bin\Debug\net6.0\FinalProgect.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\bin\Debug\net6.0\FinalProgect.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\bin\Debug\net6.0\FinalProgect.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\bin\Debug\net6.0\FinalProgect.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\refint\FinalProgect.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\FinalProgect.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\FinalProgect\obj\Debug\net6.0\ref\FinalProgect.dll

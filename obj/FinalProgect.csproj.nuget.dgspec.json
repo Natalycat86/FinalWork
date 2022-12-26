@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kir_n\\Desktop\\works\\new22\\Examples\\FinalProgect\\FinalProgect.csproj": {}
+    "C:\\Users\\kir_n\\Desktop\\New work\\FinalProgect\\FinalProgect.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kir_n\\Desktop\\works\\new22\\Examples\\FinalProgect\\FinalProgect.csproj": {
+    "C:\\Users\\kir_n\\Desktop\\New work\\FinalProgect\\FinalProgect.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kir_n\\Desktop\\works\\new22\\Examples\\FinalProgect\\FinalProgect.csproj",
+        "projectUniqueName": "C:\\Users\\kir_n\\Desktop\\New work\\FinalProgect\\FinalProgect.csproj",
         "projectName": "FinalProgect",
-        "projectPath": "C:\\Users\\kir_n\\Desktop\\works\\new22\\Examples\\FinalProgect\\FinalProgect.csproj",
+        "projectPath": "C:\\Users\\kir_n\\Desktop\\New work\\FinalProgect\\FinalProgect.csproj",
         "packagesPath": "C:\\Users\\kir_n\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kir_n\\Desktop\\works\\new22\\Examples\\FinalProgect\\obj\\",
+        "outputPath": "C:\\Users\\kir_n\\Desktop\\New work\\FinalProgect\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kir_n\\AppData\\Roaming\\NuGet\\NuGet.Config"
